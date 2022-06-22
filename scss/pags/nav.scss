@@ -1,0 +1,16 @@
+.nav{
+    background-image: linear-gradient(to right, #0f1b35, #dcf7ff);
+    color: #dcf7ff;
+    ul{
+        display: flex;
+        li{
+            list-style: none;
+            padding: 1rem;
+            &:hover{
+                color: black;
+                background-color: #dcf7ff;
+                
+            }
+        }
+    }
+}

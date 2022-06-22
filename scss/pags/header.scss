@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: #dcf7ff;
+    padding-bottom: 40px;
+
+
+    h1 {
+        font-style: italic;
+        padding-top: 1rem;
+
+        p {
+            font-style: italic;
+            padding-top: 1rem;
+        }
+    }
+
+}
